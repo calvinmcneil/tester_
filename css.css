@@ -1,0 +1,13 @@
+body{
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align:center;
+	font-size: 200%;
+	background-image: linear-gradient(to right, rgb(0, 128, 64), rgb(201, 200, 184)););
+	color: rgba(0,0,0,.6);
+}	
+	
+h3{
+	font-family: TimesNewRoman;
+	font-size: 50%;
+	color: white;
+}
